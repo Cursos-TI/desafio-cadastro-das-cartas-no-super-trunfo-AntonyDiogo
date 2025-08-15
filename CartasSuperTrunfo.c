@@ -53,7 +53,7 @@ int main() {
      printf("Digite a quantidade de pontos turisticos da cidade: \n");
      scanf("%d", &ponto_turisticos1);
     
-     printf("Agora vamos por os dados da carta 2!\n");
+     printf("\n Agora vamos por os dados da carta 2! \n");
       
      //Coletando dados carta 2
 
